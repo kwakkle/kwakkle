@@ -14,9 +14,5 @@ I am currently conducting research in **Dr. Zagha's lab**, where I:
 Outside of research, I enjoy playing gacha games like **Honkai Star Rail**, **Wuthering Waves**, and **Reverse: 1999**.  
 
 ## Connect with Me  
-📧 Email: [Your Email Address]  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)  
-
----
-
-Thanks for visiting my profile! Feel free to reach out if you're interested in my work or want to collaborate!  
+<a href="mailto:rvkcardona@gmail.com"> <img src="https://img.shields.io/badge/Email-rvkcardonagmail.com-D14836?logo=gmail&logoColor=white"> 
+<a href="https://www.linkedin.com/in/rvkcardona/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
