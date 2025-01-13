@@ -2,7 +2,7 @@
 
 ## About Me  
 🎓 **Graduate Student**  
-I am a graduate student at the **University of California, Riverside**, Biomedical Sciences program. My ultimate goal is to become a **Clinical Data Analyst** or **Research Data Analyst**, combining my passion for data science with biomedical research.  
+I am a graduate student at the **University of California, Riverside**, Biomedical Sciences program. My ultimate goal is to become a **Clinical Data Analyst** or **Research Data Analyst**, combining my passion for using computational techniques for biomedical research.  
 
 🔬 **Current Research**  
 I am currently conducting research in **Dr. Zagha's lab**, where I:  
