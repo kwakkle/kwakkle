@@ -4,11 +4,11 @@
 🎓 **Graduate Student**  
 I am a graduate student at the **University of California, Riverside**, Biomedical Sciences program. My ultimate goal is to become a **Clinical Data Analyst** or **Research Data Analyst**, combining my passion for using computational techniques for biomedical research.  
 
-🖥 **Technical Skills**
+🖥 **Technical Skills**  
 
-**MATLAB** – Experienced in data analysis, statistical modeling, and visualization for neuroscience research.
-**R** – Strong knowledge in data manipulation, statistical tests, and visualization for biostatistics and research applications.
-**Python** – Currently learning Python to expand my data science and machine learning capabilities.
+**MATLAB** – Experienced in data analysis, statistical modeling, and visualization for neuroscience research.  
+**R** – Strong knowledge in data manipulation, statistical tests, and visualization for biostatistics and research applications.  
+**Python** – Currently learning Python to expand my data science and machine learning capabilities.  
 
 🔬 **Current Research**  
 I am currently conducting research in **Dr. Zagha's lab**, where I:  
