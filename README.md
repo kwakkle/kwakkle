@@ -19,7 +19,6 @@ I am currently conducting research in **Dr. Zagha's lab**, where I:
 🧪 **Research Highlights**
 
 🧠 Activities of sensory and frontal cortices in sequence learning in Wild Type and FMR1 KO mice
-**Presented at the UC Riverside Department of Molecular, Cell and Systems Biology Research Seminar**
 
 Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in a Fragile X Syndrome model.
 
