@@ -16,6 +16,19 @@ I am currently conducting research in **Dr. Zagha's lab**, where I:
 - Use **MATLAB** to preprocess widefield Ca²⁺ imaging data and analyze neural activity across sensory (S1) and frontal (FC) cortices during behavior.
 - Apply statistical and **machine learning methods** (e.g., PCA, ANOVA) to compare learning strategies and cortical modulation between genotypes.
 
+🧪 **Research Highlights**
+
+🧠 Activities of sensory and frontal cortices in sequence learning in Wild Type and FMR1 KO mice
+**Presented at the UC Riverside Department of Molecular, Cell and Systems Biology Research Seminar**
+
+Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in a Fragile X Syndrome model.
+
+📄 [View Full Poster (PDF)](kwakkle/MCSB-poster/main/poster/Cardona_FXS_SequenceLearning_Poster.pdf)  
+🔗 [See Full Project](https://github.com/kwakkle/MCSB-poster)
+<a href="https://github.com/kwakkle/fragilex-sequence-learning/blob/main/poster/Cardona_FXS_SequenceLearning_Poster.pdf">
+  <img src="https://raw.githubusercontent.com/kwakkle/MCSB-poster/main/poster/Cardona_FXS_SequenceLearning_Poster.png" width="60%"/>
+</a>
+
 🎮 **Interests**  
 Outside of research, I enjoy playing gacha games like **Honkai Star Rail**, **Wuthering Waves**, and **Reverse: 1999**.  
 
