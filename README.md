@@ -25,6 +25,8 @@ Explored how mice learn sensory sequences using widefield calcium imaging and be
 
 📄 [View Full Poster (PDF)](kwakkle/MCSB-poster/main/poster/Cardona_FXS_SequenceLearning_Poster.pdf)  
 🔗 [See Full Project](https://github.com/kwakkle/MCSB-poster)
+
+
 <a href="https://github.com/kwakkle/fragilex-sequence-learning/blob/main/poster/Cardona_FXS_SequenceLearning_Poster.pdf">
   <img src="https://raw.githubusercontent.com/kwakkle/MCSB-poster/main/poster/Cardona_FXS_SequenceLearning_Poster.png" width="60%"/>
 </a>
