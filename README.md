@@ -12,9 +12,9 @@ I am a graduate student at the **University of California, Riverside**, Biomedic
 
 🔬 **Current Research**  
 I am currently conducting research in **Dr. Zagha's lab**, where I:  
-- Analyze data on **predictive processing** and **selective sensory filtering** in WT and FXS mouse models using **MATLAB**.  
-- Develop workflows to preprocess data, perform selective sensory filtering analyses, and create detailed visualizations for publications and presentations.  
-- Collaborate with interdisciplinary teams to identify patterns in sensory filtering and predictive coding mechanisms, contributing to our understanding of FXS mouse models.  
+- Study **sensory sequence learning** and **cortical dynamics** in wild-type and FMR1 knockout (Fragile X Syndrome) mouse models.
+- Use **MATLAB** to preprocess widefield Ca²⁺ imaging data and analyze neural activity across sensory (S1) and frontal (FC) cortices during behavior.
+- Apply statistical and **machine learning methods** (e.g., PCA, ANOVA) to compare learning strategies and cortical modulation between genotypes.
 
 🎮 **Interests**  
 Outside of research, I enjoy playing gacha games like **Honkai Star Rail**, **Wuthering Waves**, and **Reverse: 1999**.  
