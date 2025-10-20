@@ -1,8 +1,8 @@
 # Hi there, I'm Rvk (Kenny)! 👋  
 
 ## About Me  
-🎓 **Graduate Student**  
-I am a graduate student at the **University of California, Riverside**, Biomedical Sciences program. My ultimate goal is to become a **Clinical Data Analyst** or **Research Data Analyst**, combining my passion for using computational techniques for biomedical research.  
+🎓 **Recent Graduate**  
+I recently graduated from **University of California, Riverside**, with an M.S. in Biomedical Sciences. My ultimate goal is to become a **Clinical Data Analyst**, combining my passion for using computational techniques for biomedical research. I’m currently strengthening my skills in **Python, statistics, and machine learning**, and applying to **Ph.D. programs** focused on **medical informatics and data-driven healthcare**.
 
 🖥 **Technical Skills**  
 
@@ -20,7 +20,7 @@ I am currently conducting research in **Dr. Zagha's lab**, where I:
 
 🧠 Activities of sensory and frontal cortices in sequence learning in Wild Type and FMR1 KO mice
 
-Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in a Fragile X Syndrome model.
+Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in a Fragile X Syndrome model. I'm currently redeveloping this poster to present it at this year's Society for Neuroscience 2025 conference! 
 
 📄 [View Full Poster (PDF)](MCSB-poster/poster/Cardona_FXS_SequenceLearning_Poster.pdf)  
 🔗 [See Full Project](https://github.com/kwakkle/MCSB-poster)
