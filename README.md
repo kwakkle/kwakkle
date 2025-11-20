@@ -22,7 +22,7 @@ I am currently conducting research in **Dr. Zagha's lab**, where I:
 
 Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in Fmr1 KO mice, a Fragile X Syndrome model. I presented this poster at the Society for Neuroscience 2025 conference! 
 
-📄 [View Full Poster (PNG)](sfn2025_sequence_learning/main/SfN_Poster_2025_-_Rvk_Cardona.png)  
+📄 [View Full Poster (PNG)](/main/sfn2025_sequence_learning/SfN_Poster_2025_-_Rvk_Cardona.png)  
 🔗 [See Full Project](https://github.com/kwakkle/main/sfn2025_sequence_learning)
 
 <a href="https://raw.githubusercontent.com/kwakkle/sfn2025_sequence_learning/main/SfN_Poster_2025_-_Rvk_Cardona.png">
