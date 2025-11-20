@@ -20,14 +20,13 @@ I am currently conducting research in **Dr. Zagha's lab**, where I:
 
 🧠 Activities of sensory and frontal cortices in sequence learning in Wild Type and FMR1 KO mice
 
-Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in a Fragile X Syndrome model. I'm currently redeveloping this poster to present it at this year's Society for Neuroscience 2025 conference! 
+Explored how mice learn sensory sequences using widefield calcium imaging and behavioral modeling. We compared cortical dynamics between wild-type and FMR1 KO mice to study learning differences in Fmr1 KO mice, a Fragile X Syndrome model. I presented this poster at the Society for Neuroscience 2025 conference! 
 
-📄 [View Full Poster (PDF)](MCSB-poster/poster/Cardona_FXS_SequenceLearning_Poster.pdf)  
-🔗 [See Full Project](https://github.com/kwakkle/MCSB-poster)
+📄 [View Full Poster (PNG)](sfn2025_sequence_learning/SfN_Poster_2025_-_Rvk_Cardona.png)  
+🔗 [See Full Project](https://github.com/kwakkle/sfn2025_sequence_learning)
 
-
-<a href="https://github.com/kwakkle/MCSB-poster/poster/Cardona_FXS_SequenceLearning_Poster.pdf">
-  <img src="https://raw.githubusercontent.com/kwakkle/MCSB-poster/main/poster/Cardona_FXS_SequenceLearning_Poster.png" width="60%"/>
+<a href="https://raw.githubusercontent.com/kwakkle/sfn2025_sequence_learning/main/SfN_Poster_2025_-_Rvk_Cardona.png">
+  <img src="https://raw.githubusercontent.com/kwakkle/sfn2025_sequence_learning/main/SfN_Poster_2025_-_Rvk_Cardona.png" width="60%"/>
 </a>
 
 🎮 **Interests**  
