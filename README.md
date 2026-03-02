@@ -2,7 +2,7 @@
 
 ## About Me  
 🎓 **Recent Graduate**  
-I recently graduated from **University of California, Riverside**, with an M.S. in Biomedical Sciences. My ultimate goal is to become a **Clinical Data Analyst**, combining my passion for using computational techniques for biomedical research. I’m currently strengthening my skills in **Python, statistics, and machine learning**, and applying to **Ph.D. programs** focused on **medical informatics and data-driven healthcare**.
+I recently graduated from **University of California, Riverside**, with an M.S. in Biomedical Sciences. My ultimate goal is to become a **Clinical Data Analyst**, combining my passion for using computational techniques for biomedical research. I’m currently strengthening my skills in **Python, statistics, and machine learning**, and looking for job opportunities in **research** and **data-driven healthcare**.
 
 🖥 **Technical Skills**  
 
